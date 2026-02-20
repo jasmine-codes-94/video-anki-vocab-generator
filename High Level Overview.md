@@ -36,7 +36,7 @@
 
 
 
-Lakshya's job:
+# Lakshya's job:
 I need you to make the video parser. It should take in a video from youtube (re-encode as needed w ffmpeg) and create the subtitles in vtt format. 
 
 vtt format is the file format you get when you use yt-dlp to download the CC subtitles (not hard subs). 
